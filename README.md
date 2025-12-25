@@ -12,3 +12,5 @@ X-Cache headers (HIT / MISS) for cache visibility
 CLI flag --clear-cache to easily wipe all cached files
 
 Built on ReactPHP for asynchronous, non-blocking I/O performance
+
+https://github.com/Omar132555/Cache-Proxy
